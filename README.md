@@ -9,11 +9,6 @@ This project implements a file compression and decompression tool using Huffman 
 - **Rust Implementation**: Written in Rust for fast performance and memory efficiency.
 - **Command Line Interface**: A simple CLI for both compression and decompression operations.
 
-## Prerequisites
-
-- Rust 1.XX or higher
-- Cargo (Rust’s package manager)
-
 ## Installation
 
 1. Clone the repository:
